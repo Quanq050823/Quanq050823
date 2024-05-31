@@ -13,8 +13,6 @@
 &nbsp; -->
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp; -->
 <!-- <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
@@ -66,7 +64,7 @@
 
 <br>
 
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">📑 "Nothing is too small to know, and nothing too big to attempt! 📑</h2>
 <br>
 <a href="#" target="_blank">
   <a  align="center">"Nothing is too small to know, and nothing too big to attempt!"
