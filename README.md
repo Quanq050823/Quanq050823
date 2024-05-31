@@ -69,6 +69,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <a>"Nothing is too small to know, and nothing too big to attempt!"
+  <a  align="center">"Nothing is too small to know, and nothing too big to attempt!"
 </a>
 </a>
