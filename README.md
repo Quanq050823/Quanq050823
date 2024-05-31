@@ -70,7 +70,5 @@
 <br>
 <a href="#" target="_blank">
   <a>"Nothing is too small to know, and nothing too big to attempt!"
-“Không có gì là quá nhỏ để biết, không có gì quá lớn để thử ?"    
-    - Sine -
 </a>
 </a>
