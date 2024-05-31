@@ -45,7 +45,7 @@
 
 <br>
 <h2 align="center">🐍 Snake Eating My Contribution 🐍</h2>
-<img src="https://github.com/FromSunNews/FromSunNews/blob/output/github-contribution-grid-snake.svg" width="1200" alt="fromsunnews-img" />
+<img src="svg/github-contribution-grid-snake.svg" width="1200" alt="fromsunnews-img" />
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
