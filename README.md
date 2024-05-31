@@ -64,9 +64,5 @@
 
 <br>
 
-<h2 align="center">📑 "Nothing is too small to know, and nothing too big to attempt! 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <a  align="center">"Nothing is too small to know, and nothing too big to attempt!"
-</a>
-</a>
+<h2 align="center">"Nothing is too small to know, and nothing too big to attempt!</h2>
+<a  align="center">"Nothing is too small to know, and nothing too big to attempt!"</a>
