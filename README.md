@@ -85,5 +85,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/sine-quotes.svg" width="1200" height="150" alt="fromsunnews-quotes" />
+  <img src="svg/sine-quotes.png" width="1200" height="150" alt="fromsunnews-quotes" />
 </a>
