@@ -1,6 +1,6 @@
 <!-- Fromsunnews -->
 <a href="#" target="_blank">
-  <img src="svg/sine-quotes" width="1200" alt="fromsunnews-img" />
+  <img src="svg/sine-quotes.svg" width="1200" alt="fromsunnews-img" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
